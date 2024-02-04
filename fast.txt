@@ -22,6 +22,13 @@ CETV1,http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1
 CETV2,http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+NewTV动画王国 (1080p),http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+NewTV动画王国 (1080p),http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+NewTV完美遊戲 (1080p),http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
+NewTV搏击 (720p),http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226803/index.m3u8
+NewTV精品電影 (1080p),http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+NewTV精品電影 (1080p),http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+NewTV超级电影 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
 斗鱼,#genre#
 斗鱼8,http://epg.112114.xyz/douyu/4332
 斗鱼9,http://epg.112114.xyz/douyu/6140589
