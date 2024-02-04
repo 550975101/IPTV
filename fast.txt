@@ -22,7 +22,16 @@ CETV1,http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1
 CETV2,http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-
+斗鱼,#genre#
+斗鱼8,http://epg.112114.xyz/douyu/4332
+斗鱼9,http://epg.112114.xyz/douyu/6140589
+斗鱼15,http://epg.112114.xyz/douyu/8770422
+斗鱼19,http://epg.112114.xyz/douyu/747764
+斗鱼20,http://epg.112114.xyz/douyu/52787
+斗鱼24,http://epg.112114.xyz/douyu/36337
+斗鱼25,http://epg.112114.xyz/douyu/8814650
+斗鱼28,http://epg.112114.xyz/douyu/263824
+斗鱼44,http://epg.112114.xyz/douyu/323876
 卫视频道,#genre#
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
